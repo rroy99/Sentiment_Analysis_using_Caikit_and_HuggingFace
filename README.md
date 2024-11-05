@@ -54,27 +54,7 @@ Complete the following tasks to configure the Caikit runtime and the AI model, a
 6. **Test the Sentiment Analysis**: 
    - Run tests to validate the functionality of the sentiment analysis model through a client application.
 
-## Installation 🚀
 
-1. **Install `virtualenv`**:
-   ```bash
-   pip install --user virtualenv
-2. **Create a virtual environment**:
-   ```bash
-   virtualenv -p python3 env
-3. **Activate the virtual environment**:
-   ```bash
-  source env/bin/activate
-4. **Install requirements**:
-   ```bash
- pip install -r requirements.txt
-5. **Start the Caikit Runtime:**:
-   ```bash
-   python start_runtime.py
-6. **Start the Client**:
-   ```bash
-   python client.py
-   
 ## Usage 💻
 <p align="justify"> Follow the steps outlined in the Procedure section to run the sentiment analysis application. </p>
 
