@@ -38,24 +38,68 @@ Complete the following tasks to configure the Caikit runtime and the AI model, a
 
 1. **Create the Project**: 
    - Set up the necessary directories and files for your project.
-   
+     ```bash
+     pip install --user virtualenv  
+     mkdir -p /home/project/text-sentiment/text_sentiment  
+     cd /home/project/text-sentiment/text_sentiment
+     ```
+
 2. **Create the Data Model Specification**: 
    - Define the data format used by the Caikit module.
-   
+     ```bash
+     mkdir data_model
+     cd data_model
+     touch classification.py
+     ```
+
 3. **Create the Model Wrapper**: 
    - Implement a wrapper that integrates the AI model with the Caikit framework.
-   
+     ```bash
+     mkdir -p models/text_sentiment
+     cd models/text_sentiment
+     touch config.yml
+     mkdir runtime_model
+     cd runtime_model
+     touch hf_module.py
+     touch __init__.py
+     cd ../../..  # Kembali ke direktori proyek
+     ```
+
 4. **Include the Module and Package Dependencies**: 
    - Specify any necessary dependencies in your project configuration.
-   
+     ```bash
+     touch requirements.txt
+     virtualenv -p python3 env
+     source env/bin/activate
+     pip install -r requirements.txt
+     ```
+
 5. **Start the Caikit Runtime**: 
    - Launch the Caikit runtime to serve the model for inference.
-   
+     ```bash
+     touch start_runtime.py
+     python start_runtime.py
+     ```
+
 6. **Test the Sentiment Analysis**: 
    - Run tests to validate the functionality of the sentiment analysis model through a client application.
-   - 
+     ```bash
+     touch client.py
+     python client.py
+     ```
+     
+
+## Example Result 📊✨
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rroy99/Sentiment_Analysis_using_Caikit_and_HuggingFace/main/WhatsApp%20Image%202024-11-05%20at%2020.44.26.jpeg" alt="Sentiment Analysis Image"/>
+</p>
 
 ## Contributing 🤝
 <p align="justify">
 Feel free to fork the repository and submit pull requests for any improvements or bug fixes.
+</p>
+
+## Credits 🙏
+<p align="justify">
+This project is inspired by materials from <strong>Cognitive Class</strong>.
 </p>
