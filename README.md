@@ -1,6 +1,6 @@
 <p align="center">
-## Sentiment Analysis with Caikit and Hugging Face 🎉
-  </a>
+  <h1>Sentiment Analysis with Caikit and Hugging Face 🎉</h1>
+</p>
 
 <p align="center">
   <a href="https://caikit.ai">
@@ -28,7 +28,7 @@
 
 ## Overview 📚
 <p align="justify">
-This project implements a sentiment analysis application using the **Caikit** framework and **Hugging Face's** model serving capabilities. The goal is to perform text sentiment analysis by configuring the Caikit runtime and an AI model, followed by testing it through a client application.
+This project implements a sentiment analysis application using the <strong>Caikit</strong> framework and <strong>Hugging Face's</strong> model serving capabilities. The goal is to perform text sentiment analysis by configuring the Caikit runtime and an AI model, followed by testing it through a client application.
 </p>
 
 ## Procedure 🛠️
@@ -54,9 +54,12 @@ Complete the following tasks to configure the Caikit runtime and the AI model, a
 6. **Test the Sentiment Analysis**: 
    - Run tests to validate the functionality of the sentiment analysis model through a client application.
 
-
 ## Usage 💻
-<p align="justify"> Follow the steps outlined in the Procedure section to run the sentiment analysis application. </p>
+<p align="justify">
+Follow the steps outlined in the Procedure section to run the sentiment analysis application.
+</p>
 
 ## Contributing 🤝
-<p align="justify"> Feel free to fork the repository and submit pull requests for any improvements or bug fixes. </p> ```
+<p align="justify">
+Feel free to fork the repository and submit pull requests for any improvements or bug fixes.
+</p>
