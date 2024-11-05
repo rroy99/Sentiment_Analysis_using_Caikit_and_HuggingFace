@@ -1,5 +1,5 @@
 <p align="center">
-# Sentiment Analysis with Caikit and Hugging Face 🎉
+## Sentiment Analysis with Caikit and Hugging Face 🎉
   </a>
 
 <p align="center">
