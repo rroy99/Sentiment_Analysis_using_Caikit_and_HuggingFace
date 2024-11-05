@@ -53,11 +53,7 @@ Complete the following tasks to configure the Caikit runtime and the AI model, a
    
 6. **Test the Sentiment Analysis**: 
    - Run tests to validate the functionality of the sentiment analysis model through a client application.
-
-## Usage 💻
-<p align="justify">
-Follow the steps outlined in the Procedure section to run the sentiment analysis application.
-</p>
+   - 
 
 ## Contributing 🤝
 <p align="justify">
