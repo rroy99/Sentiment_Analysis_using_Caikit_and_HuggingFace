@@ -1,7 +1,5 @@
 # Sentiment Analysis with Caikit and Hugging Face 🎉
 
-# Sentiment Analysis with Caikit and Hugging Face 🎉
-
 <p align="center">
   <a href="https://caikit.ai">
     <img src="https://img.shields.io/badge/Caikit-v0.9.2-brightgreen" alt="Caikit Badge"/>
