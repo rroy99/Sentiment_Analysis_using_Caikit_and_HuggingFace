@@ -37,12 +37,14 @@ Complete the following tasks to configure the Caikit runtime and the AI model, a
 1. **Upgrade pip**:
    ```bash
    pip install --upgrade pip
-Install Caikit:
-bash
-Copy code
-pip install caikit==0.9.2
-Usage 💻
+
+1. **Install Caikit**:
+   ```bash
+   pip install caikit==0.9.2
+
+   
+## Usage 💻
 Follow the steps outlined in the Procedure section to run the sentiment analysis application.
 
-Contributing 🤝
+## Contributing 🤝
 Feel free to fork the repository and submit pull requests for any improvements or bug fixes.
