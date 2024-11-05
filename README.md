@@ -1,6 +1,6 @@
 # Sentiment Analysis with Caikit and Hugging Face 🎉
 
-[![Caikit Badge](https://img.shields.io/badge/Caikit-v0.9.2-brightgreen)](https://caikit.ai) [![Hugging Face Badge](https://img.shields.io/badge/Hugging%20Face-Model%20Serving-blue)](https://huggingface.co)
+[![Caikit Badge](https://img.shields.io/badge/Caikit-v0.9.2-brightgreen)](https://caikit.ai) [![Hugging Face Badge](https://img.shields.io/badge/Hugging%20Face-Model%20Serving-blue)](https://huggingface.co) [![OS Badge](https://img.shields.io/badge/OS-Linux%20%2F%20MacOS%20x86_64-lightgray)](https://www.linux.org/) [![Python Badge](https://img.shields.io/badge/Python-v3.8%2B-blue)](https://www.python.org/) [![pip Badge](https://img.shields.io/badge/pip-v23.0%2B-orange)](https://pip.pypa.io/en/stable/)
 
 ## Prerequisites ⚙️
 - **Operating System**: Linux/MacOS x86_64 (provided by the Skills Network Lab environment).
@@ -37,10 +37,10 @@ Complete the following tasks to configure the Caikit runtime and the AI model, a
 1. **Upgrade pip**:
    ```bash
    pip install --upgrade pip
-
-2. **Install Caikit:**:
-   pip install caikit==0.9.2
-
+Install Caikit:
+bash
+Copy code
+pip install caikit==0.9.2
 Usage 💻
 Follow the steps outlined in the Procedure section to run the sentiment analysis application.
 
