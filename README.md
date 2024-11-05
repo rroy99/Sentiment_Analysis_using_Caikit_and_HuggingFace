@@ -1,6 +1,24 @@
 # Sentiment Analysis with Caikit and Hugging Face 🎉
 
-[![Caikit Badge](https://img.shields.io/badge/Caikit-v0.9.2-brightgreen)](https://caikit.ai) [![Hugging Face Badge](https://img.shields.io/badge/Hugging%20Face-Model%20Serving-blue)](https://huggingface.co) [![OS Badge](https://img.shields.io/badge/OS-Linux%20%2F%20MacOS%20x86_64-lightgray)](https://www.linux.org/) [![Python Badge](https://img.shields.io/badge/Python-v3.8%2B-blue)](https://www.python.org/) [![pip Badge](https://img.shields.io/badge/pip-v23.0%2B-orange)](https://pip.pypa.io/en/stable/)
+# Sentiment Analysis with Caikit and Hugging Face 🎉
+
+<p align="center">
+  <a href="https://caikit.ai">
+    <img src="https://img.shields.io/badge/Caikit-v0.9.2-brightgreen" alt="Caikit Badge"/>
+  </a>
+  <a href="https://huggingface.co">
+    <img src="https://img.shields.io/badge/Hugging%20Face-Model%20Serving-blue" alt="Hugging Face Badge"/>
+  </a>
+  <a href="https://www.linux.org/">
+    <img src="https://img.shields.io/badge/OS-Linux%20%2F%20MacOS%20x86_64-lightgray" alt="OS Badge"/>
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-v3.8%2B-blue" alt="Python Badge"/>
+  </a>
+  <a href="https://pip.pypa.io/en/stable/">
+    <img src="https://img.shields.io/badge/pip-v23.0%2B-orange" alt="pip Badge"/>
+  </a>
+</p>
 
 ## Prerequisites ⚙️
 - **Operating System**: Linux/MacOS x86_64 
@@ -9,10 +27,14 @@
 - **pip Version**: v23.0+ 
 
 ## Overview 📚
+<p align="justify">
 This project implements a sentiment analysis application using the **Caikit** framework and **Hugging Face's** model serving capabilities. The goal is to perform text sentiment analysis by configuring the Caikit runtime and an AI model, followed by testing it through a client application.
+</p>
 
 ## Procedure 🛠️
+<p align="justify">
 Complete the following tasks to configure the Caikit runtime and the AI model, and then test them from a client application:
+</p>
 
 1. **Create the Project**: 
    - Set up the necessary directories and files for your project.
@@ -37,29 +59,24 @@ Complete the following tasks to configure the Caikit runtime and the AI model, a
 1. **Install `virtualenv`**:
    ```bash
    pip install --user virtualenv
-
 2. **Create a virtual environment**:
    ```bash
    virtualenv -p python3 env
-
 3. **Activate the virtual environment**:
    ```bash
   source env/bin/activate
-
 4. **Install requirements**:
    ```bash
  pip install -r requirements.txt
-
 5. **Start the Caikit Runtime:**:
    ```bash
    python start_runtime.py
-
 6. **Start the Client**:
    ```bash
    python client.py
    
 ## Usage 💻
-Follow the steps outlined in the Procedure section to run the sentiment analysis application.
+<p align="justify"> Follow the steps outlined in the Procedure section to run the sentiment analysis application. </p>
 
 ## Contributing 🤝
-Feel free to fork the repository and submit pull requests for any improvements or bug fixes.
+<p align="justify"> Feel free to fork the repository and submit pull requests for any improvements or bug fixes. </p> ```
