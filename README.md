@@ -4,21 +4,22 @@
 
 <p align="center">
   <a href="https://caikit.ai">
-    <img src="https://img.shields.io/badge/Caikit-v0.9.2-brightgreen" alt="Caikit Badge"/>
+    <img src="https://img.shields.io/badge/Caikit-v1.0.0-brightgreen?logo=caikit" alt="Caikit Badge"/>
   </a>
   <a href="https://huggingface.co">
-    <img src="https://img.shields.io/badge/Hugging%20Face-Model%20Serving-blue" alt="Hugging Face Badge"/>
+    <img src="https://img.shields.io/badge/Hugging%20Face-Model%20Serving-blue?logo=huggingface" alt="Hugging Face Badge"/>
   </a>
   <a href="https://www.linux.org/">
-    <img src="https://img.shields.io/badge/OS-Linux%20%2F%20MacOS%20x86_64-lightgray" alt="OS Badge"/>
+    <img src="https://img.shields.io/badge/OS-Linux%20%2F%20MacOS%20x86_64-lightgray?logo=linux" alt="OS Badge"/>
   </a>
   <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-v3.8%2B-blue" alt="Python Badge"/>
+    <img src="https://img.shields.io/badge/Python-v3.10%2B-blue?logo=python" alt="Python Badge"/>
   </a>
   <a href="https://pip.pypa.io/en/stable/">
-    <img src="https://img.shields.io/badge/pip-v23.0%2B-orange" alt="pip Badge"/>
+    <img src="https://img.shields.io/badge/pip-v23.1%2B-orange?logo=pypi" alt="pip Badge"/>
   </a>
 </p>
+
 
 ## Prerequisites ⚙️
 - **Operating System**: Linux/MacOS x86_64 
